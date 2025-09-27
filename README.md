@@ -8,8 +8,8 @@ Amacım, yapay zekâ alanındaki bilgi birikimimi uygulamalı projelerle pekişt
 🔹 Gerçek dünya problemlerine uygulanabilir çözümler üretmek
 
 
-🤝 Katkı
-Görüş ve önerilere açığım! Eğer projeleri faydalı bulduysan ⭐ vermeyi unutma.
+Katkı, görüş ve önerilere açığım! Eğer projeleri faydalı bulduysan 
+⭐ vermeyi unutma.
 
 
 
